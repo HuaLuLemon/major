@@ -1,2 +1,0 @@
-# major
-notes&amp;interview
